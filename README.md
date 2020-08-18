@@ -35,3 +35,7 @@ Here show the completion results:
 ![image](https://github.com/63445538/PF-Net_PaddlePaddle/blob/master/img/1.png)
 ![image](https://github.com/63445538/PF-Net_PaddlePaddle/blob/master/img/2.png)
 ![image](https://github.com/63445538/PF-Net_PaddlePaddle/blob/master/img/3.png)
+
+# Acknowledgement
+
+[PF-Net-Point-Fractal-Network](https://github.com/zztianzz/PF-Net-Point-Fractal-Network) : Offical PyTorch implementation.
