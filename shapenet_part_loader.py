@@ -1,9 +1,7 @@
 # from __future__ import print_function
-import torch.utils.data as data
 import paddle.fluid as fluid
 import os
 import os.path
-# import torch
 import json
 import numpy as np
 import sys
