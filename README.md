@@ -11,12 +11,15 @@ Python: Python 3.6+
 
 [open3d](http://www.open3d.org/docs/release/): 3D vision visualization toolbox
 
-Then, run script```download_shapenet_part16_catagories.sh``` in folder ```dataset``` for preparing shapenet part dataset.
-
 # Install
+
 Clone the repo
 
 ```git clone https://github.com/63445538/PF-Net_PaddlePaddle.git```
+
+Then, run script```download_shapenet_part16_catagories.sh``` in folder ```dataset``` for preparing shapenet part dataset.
+
+Download pretrained weight for test:[gdrive](https://drive.google.com/file/d/1Ecij0Th7573Xvp8d98GhJn3DNCe2mzJ6/view?usp=sharing), and copy it into folder ```Checkpoints```.
 
 # Train
 
@@ -32,7 +35,3 @@ Here show the completion results:
 ![image](https://github.com/63445538/PF-Net_PaddlePaddle/blob/master/img/1.png)
 ![image](https://github.com/63445538/PF-Net_PaddlePaddle/blob/master/img/2.png)
 ![image](https://github.com/63445538/PF-Net_PaddlePaddle/blob/master/img/3.png)
-<<<<<<< HEAD
-
-=======
->>>>>>> c0c99d26d2fe5940b8ce9a98a5ed012342a5da4d
