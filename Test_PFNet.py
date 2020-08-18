@@ -49,7 +49,7 @@ with fluid.dygraph.guard(place):
                                                 regularization=fluid.regularizer.L2Decay(regularization_coeff=
                                                                                             opt.weight_decay))
 
-    para, netG_opt = fluid.load_dygraph('Checkpoints/netG_pp_converted.pdparams')
+    para, netG_opt = fluid.load_dygraph('Checkpoints/netG_pretrained.pdparams')
     netG.load_dict(para)
     netG.eval()
 

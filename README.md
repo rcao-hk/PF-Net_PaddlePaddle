@@ -32,4 +32,7 @@ Here show the completion results:
 ![image](https://github.com/63445538/PF-Net_PaddlePaddle/blob/master/img/1.png)
 ![image](https://github.com/63445538/PF-Net_PaddlePaddle/blob/master/img/2.png)
 ![image](https://github.com/63445538/PF-Net_PaddlePaddle/blob/master/img/3.png)
+<<<<<<< HEAD
 
+=======
+>>>>>>> c0c99d26d2fe5940b8ce9a98a5ed012342a5da4d
