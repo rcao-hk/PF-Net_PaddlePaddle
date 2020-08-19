@@ -7,7 +7,7 @@ PaddlePaddle Implementation for [PF-Net: Point Fractal Network for 3D Point Clou
 
 Python: Python 3.6+
 
-[PaddlePaddle](https://github.com/PaddlePaddle/Paddle) : Deep learning framework
+[PaddlePaddle v1.8.3](https://github.com/PaddlePaddle/Paddle) : Deep learning framework
 
 [open3d](http://www.open3d.org/docs/release/): 3D vision visualization toolbox
 
@@ -19,7 +19,7 @@ Clone the repo
 
 Then, run script```download_shapenet_part16_catagories.sh``` in folder ```dataset``` for preparing shapenet part dataset.
 
-Download pretrained weight for test:[gdrive](https://drive.google.com/file/d/1Ecij0Th7573Xvp8d98GhJn3DNCe2mzJ6/view?usp=sharing), and copy it into folder ```Checkpoints```.
+Download pretrained weight for test:[gdrive](https://drive.google.com/file/d/1Ecij0Th7573Xvp8d98GhJn3DNCe2mzJ6/view?usp=sharing), [baidu pan](https://pan.baidu.com/s/1pMgq_kBYQ73nIrU5jUTK6Q)(password:wwtx), and copy it into folder ```Checkpoints```.
 
 # Train
 
