@@ -37,7 +37,7 @@ Here show the completion results:
 ![image](https://github.com/63445538/PF-Net_PaddlePaddle/blob/master/img/3.png)
 
 The following figure shows point cloud completion results of the missing point cloud
-![image](https://github.com/63445538/PF-Net_PaddlePaddle/blob/master/img/result.png)
+![image](https://github.com/63445538/PF-Net_PaddlePaddle/blob/master/img/result1.png)
 
 # Acknowledgement
 
