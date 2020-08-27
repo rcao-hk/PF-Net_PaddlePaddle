@@ -19,7 +19,7 @@ Clone the repo
 
 Then, run script```download_shapenet_part16_catagories.sh``` in folder ```dataset``` for preparing shapenet part dataset.
 
-Download pretrained weight for test:[gdrive](https://drive.google.com/file/d/1Ecij0Th7573Xvp8d98GhJn3DNCe2mzJ6/view?usp=sharing), [baidu pan](https://pan.baidu.com/s/1pMgq_kBYQ73nIrU5jUTK6Q)(password:wwtx), and copy it into folder ```Checkpoints```.
+Download pretrained weight for test:[gdrive](https://drive.google.com/file/d/1Ecij0Th7573Xvp8d98GhJn3DNCe2mzJ6/view?usp=sharing), [baidu pan]()(password:wwtx), and copy it into folder ```Checkpoints```.
 
 # Train
 
@@ -35,6 +35,9 @@ Here show the completion results:
 ![image](https://github.com/63445538/PF-Net_PaddlePaddle/blob/master/img/1.png)
 ![image](https://github.com/63445538/PF-Net_PaddlePaddle/blob/master/img/2.png)
 ![image](https://github.com/63445538/PF-Net_PaddlePaddle/blob/master/img/3.png)
+
+The following figure shows point cloud completion results of the missing point cloud
+![image](https://github.com/63445538/PF-Net_PaddlePaddle/blob/master/img/result.png)
 
 # Acknowledgement
 
