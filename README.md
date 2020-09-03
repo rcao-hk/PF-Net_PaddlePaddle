@@ -19,7 +19,7 @@ Clone the repo
 
 Then, run script```download_shapenet_part16_catagories.sh``` in folder ```dataset``` for preparing shapenet part dataset.
 
-Download pretrained weight for test:[gdrive](https://drive.google.com/file/d/1Ecij0Th7573Xvp8d98GhJn3DNCe2mzJ6/view?usp=sharing), [baidu pan]()(password:wwtx), and copy it into folder ```Checkpoints```.
+Download pretrained weight for test:[gdrive](https://drive.google.com/file/d/1Ecij0Th7573Xvp8d98GhJn3DNCe2mzJ6/view?usp=sharing), [baidu pan](https://pan.baidu.com/s/1pMgq_kBYQ73nIrU5jUTK6Q)(password:wwtx), and copy it into folder ```Checkpoints```.
 
 # Train
 
